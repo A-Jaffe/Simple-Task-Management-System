@@ -1,11 +1,12 @@
 # Simple Task Management System
 ## Project Description
-This program is written in python and was designed to assist a small business in managing 
-tasks assigned to each member of a team. Its functions include logging-in with a team member
-specific name and password and providing the user with differnt task managing options. It is the second Capstone project required in the Hyperion Development Software Engineer bootcamp.
+This program is written in python and was designed to assist a small business in **managing 
+tasks assigned to each member of a team.** Its functions include *logging-in* with a team member
+specific name and password and providing the user with differnt task managing options. 
+It is the second Capstone project required in the Hyperion Development Software Engineer bootcamp.
 
-The user may store, display and edit tasks and the user set to admin my add users and generate
-reports regarding tasks and users registered with the program.
+Once logged-in the user may *store, display and edit tasks*, while the user set to admin may *add users* and *generate
+reports* regarding tasks and users registered with the program.
 
 ## Functionality
 First, the program will prompt the user for their name and password. The program will compare
