@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 2019-10-10, 2019-10-20, Yes 
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 2019-10-10, 2019-10-25, Yes
+aaron, cleaning, clean all dishes and clothes, 2022-03-28, 2022-03-27, Yes 
+aaron, programming, design a new program, 2021-04-15, 2022-03-27, Yes 
+admin, budget meeting, work out numbers for meeting, 2022-03-19, 2022-03-27, No
+lawrence, running, run at least 20km, 2022-03-19, 2022-03-27, No
+jarred, running, workout 50 min a day, 2022-05-20, 2022-05-09, No 
+stuart, eat lunch, eat your veggies, 2022-09-12, 2022-05-09, No 
